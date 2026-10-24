@@ -1,0 +1,5 @@
+﻿Phương án,Silhouette_train,Silhouette_reference,ARI_Channel,Min_cluster_pct,PCA_variance_pct
+Gốc log1p Standard KMeans(2) no PCA,0.29032849,0.29032849,0.5135431,42.7273,100
+sqrt MinMax KMeans(2) no PCA,0.37472,,0.59589,30.68,100
+sqrt MinMax PCA(2) KMeans(2),0.46850755,0.28444763,0.6260377,32.04545,78.35287
+raw Standard PCA(2) KMeans(2),0.63622,,0.23084,10.23,
